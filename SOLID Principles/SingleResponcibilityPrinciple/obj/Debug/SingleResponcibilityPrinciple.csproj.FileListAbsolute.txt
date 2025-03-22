@@ -1,0 +1,7 @@
+E:\Practice Projects\SOLID Principles\SingleResponcibilityPrinciple\bin\Debug\SingleResponcibilityPrinciple.exe.config
+E:\Practice Projects\SOLID Principles\SingleResponcibilityPrinciple\bin\Debug\SingleResponcibilityPrinciple.exe
+E:\Practice Projects\SOLID Principles\SingleResponcibilityPrinciple\bin\Debug\SingleResponcibilityPrinciple.pdb
+E:\Practice Projects\SOLID Principles\SingleResponcibilityPrinciple\obj\Debug\SingleResponcibilityPrinciple.csproj.AssemblyReference.cache
+E:\Practice Projects\SOLID Principles\SingleResponcibilityPrinciple\obj\Debug\SingleResponcibilityPrinciple.csproj.CoreCompileInputs.cache
+E:\Practice Projects\SOLID Principles\SingleResponcibilityPrinciple\obj\Debug\SingleResponcibilityPrinciple.exe
+E:\Practice Projects\SOLID Principles\SingleResponcibilityPrinciple\obj\Debug\SingleResponcibilityPrinciple.pdb

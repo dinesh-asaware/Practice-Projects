@@ -1,0 +1,7 @@
+E:\Practice Projects\DesignPatterns\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.exe.config
+E:\Practice Projects\DesignPatterns\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.exe
+E:\Practice Projects\DesignPatterns\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.pdb
+E:\Practice Projects\DesignPatterns\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.csproj.AssemblyReference.cache
+E:\Practice Projects\DesignPatterns\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+E:\Practice Projects\DesignPatterns\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.exe
+E:\Practice Projects\DesignPatterns\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.pdb

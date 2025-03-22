@@ -1,0 +1,7 @@
+E:\Practice Projects\DesignPatterns\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe.config
+E:\Practice Projects\DesignPatterns\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe
+E:\Practice Projects\DesignPatterns\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.pdb
+E:\Practice Projects\DesignPatterns\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csproj.AssemblyReference.cache
+E:\Practice Projects\DesignPatterns\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+E:\Practice Projects\DesignPatterns\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.exe
+E:\Practice Projects\DesignPatterns\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.pdb
