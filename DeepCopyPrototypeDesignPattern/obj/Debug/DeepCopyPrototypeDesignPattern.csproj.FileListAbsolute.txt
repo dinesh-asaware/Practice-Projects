@@ -1,0 +1,7 @@
+E:\Practice Projects\DesignPatterns\DeepCopyPrototypeDesignPattern\bin\Debug\DeepCopyPrototypeDesignPattern.exe.config
+E:\Practice Projects\DesignPatterns\DeepCopyPrototypeDesignPattern\bin\Debug\DeepCopyPrototypeDesignPattern.exe
+E:\Practice Projects\DesignPatterns\DeepCopyPrototypeDesignPattern\bin\Debug\DeepCopyPrototypeDesignPattern.pdb
+E:\Practice Projects\DesignPatterns\DeepCopyPrototypeDesignPattern\obj\Debug\DeepCopyPrototypeDesignPattern.csproj.AssemblyReference.cache
+E:\Practice Projects\DesignPatterns\DeepCopyPrototypeDesignPattern\obj\Debug\DeepCopyPrototypeDesignPattern.csproj.CoreCompileInputs.cache
+E:\Practice Projects\DesignPatterns\DeepCopyPrototypeDesignPattern\obj\Debug\DeepCopyPrototypeDesignPattern.exe
+E:\Practice Projects\DesignPatterns\DeepCopyPrototypeDesignPattern\obj\Debug\DeepCopyPrototypeDesignPattern.pdb
