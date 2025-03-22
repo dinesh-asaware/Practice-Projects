@@ -1,0 +1,7 @@
+E:\Practice Projects\DesignPatterns\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.exe.config
+E:\Practice Projects\DesignPatterns\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.exe
+E:\Practice Projects\DesignPatterns\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.pdb
+E:\Practice Projects\DesignPatterns\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.csproj.AssemblyReference.cache
+E:\Practice Projects\DesignPatterns\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.csproj.CoreCompileInputs.cache
+E:\Practice Projects\DesignPatterns\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.exe
+E:\Practice Projects\DesignPatterns\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.pdb
