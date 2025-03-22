@@ -1,0 +1,7 @@
+E:\Practice Projects\DesignPatterns\ShallowCopyPrototypeDesignPattern\bin\Debug\ShallowCopyPrototypeDesignPattern.exe.config
+E:\Practice Projects\DesignPatterns\ShallowCopyPrototypeDesignPattern\bin\Debug\ShallowCopyPrototypeDesignPattern.exe
+E:\Practice Projects\DesignPatterns\ShallowCopyPrototypeDesignPattern\bin\Debug\ShallowCopyPrototypeDesignPattern.pdb
+E:\Practice Projects\DesignPatterns\ShallowCopyPrototypeDesignPattern\obj\Debug\ShallowCopyPrototypeDesignPattern.csproj.AssemblyReference.cache
+E:\Practice Projects\DesignPatterns\ShallowCopyPrototypeDesignPattern\obj\Debug\ShallowCopyPrototypeDesignPattern.csproj.CoreCompileInputs.cache
+E:\Practice Projects\DesignPatterns\ShallowCopyPrototypeDesignPattern\obj\Debug\ShallowCopyPrototypeDesignPattern.exe
+E:\Practice Projects\DesignPatterns\ShallowCopyPrototypeDesignPattern\obj\Debug\ShallowCopyPrototypeDesignPattern.pdb
