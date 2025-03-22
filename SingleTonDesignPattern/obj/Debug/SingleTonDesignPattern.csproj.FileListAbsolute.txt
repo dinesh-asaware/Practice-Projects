@@ -1,0 +1,7 @@
+E:\Practice Projects\DesignPatterns\SingleTonDesignPattern\bin\Debug\SingleTonDesignPattern.exe.config
+E:\Practice Projects\DesignPatterns\SingleTonDesignPattern\bin\Debug\SingleTonDesignPattern.exe
+E:\Practice Projects\DesignPatterns\SingleTonDesignPattern\bin\Debug\SingleTonDesignPattern.pdb
+E:\Practice Projects\DesignPatterns\SingleTonDesignPattern\obj\Debug\SingleTonDesignPattern.csproj.AssemblyReference.cache
+E:\Practice Projects\DesignPatterns\SingleTonDesignPattern\obj\Debug\SingleTonDesignPattern.csproj.CoreCompileInputs.cache
+E:\Practice Projects\DesignPatterns\SingleTonDesignPattern\obj\Debug\SingleTonDesignPattern.exe
+E:\Practice Projects\DesignPatterns\SingleTonDesignPattern\obj\Debug\SingleTonDesignPattern.pdb
